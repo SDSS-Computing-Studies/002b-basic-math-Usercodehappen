@@ -8,7 +8,7 @@
 x = 10
 y = 4
 answer = 14
-print(answer)
+print( x + y)
 
 
 
